@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniEhandelClothing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b598f7594d62fee4255cf546e0b19eeed222650f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniEhandelClothing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniEhandelClothing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
