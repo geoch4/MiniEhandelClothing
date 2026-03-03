@@ -55,6 +55,13 @@ main{ padding: 26px 0 60px; }
 .card{ background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
 .pad{ padding: 18px; }
 
+.section-box{
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px;
+}
 .h1{ font-size: 34px; margin: 0 0 8px; line-height: 1.1; }
 .p{ color: var(--muted); margin:0; line-height: 1.6; }
 .kicker{ color: var(--muted); font-size: 12px; letter-spacing:.12em; text-transform:uppercase; }
@@ -227,4 +234,19 @@ input{
 @media (max-width: 900px){
   .detail{ grid-template-columns: 1fr; }
   .detail__media .placeholder{ height: 220px; }
+}
+
+select{
+  -webkit-appearance: none;
+  appearance: none;
+  padding: 10px 42px 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,.03);
+  color: var(--text);
+}
+
+select option{
+  background: var(--panel);
+  color: var(--text);
 }

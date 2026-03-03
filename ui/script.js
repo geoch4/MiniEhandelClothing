@@ -116,3 +116,20 @@ function init() {
 }
 
 init();
+
+document.addEventListener("DOMContentLoaded", () => {
+
+  const sizeInputs = document.querySelectorAll("input[name='size']");
+  const addBtn = document.getElementById("addToCartBtn");
+
+  // Säkerställ att knappen är disabled från start
+  addBtn.disabled = true;
+
+  sizeInputs.forEach(input => {
+    input.addEventListener("change", () => {
+      addBtn.disabled = false;
+    });
+  });
+
+});
+

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Components</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <main class="container" style="padding-top: 24px;">
+    <h1 class="h1">Components</h1>
+    <p class="p">Här samlar vi alla UI-komponenter som används i prototypen.</p>
+
+    <div style="margin: 12px 0 18px;">
+      <a class="btn" href="page2.html">← Tillbaka</a>
+    </div>
+
+    <!-- Buttons -->
+    <section class="card pad" style="margin-top: 14px;">
+      <h2 class="h2">Buttons</h2>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+        <button class="btn btn-primary" type="button">Primary</button>
+        <button class="btn" type="button">Secondary</button>
+        <button class="btn" type="button" disabled>Disabled</button>
+      </div>
+    </section>
+
+    <!-- Inputs -->
+    <section class="card pad" style="margin-top: 14px;">
+      <h2 class="h2">Input</h2>
+
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;">
+        <div style="flex:1; min-width: 240px;">
+          <label class="p" style="display:block; margin-bottom:6px;">Search</label>
+          <input placeholder="Search..." />
+        </div>
+
+        <div style="min-width: 120px;">
+          <label class="p" style="display:block; margin-bottom:6px;">Size</label>
+          <select>
+            <option>XS</option>
+            <option>S</option>
+            <option>M</option>
+            <option>L</option>
+            <option>XL</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Card -->
+    <section class="card pad" style="margin-top: 14px;">
+      <h2 class="h2">Card</h2>
+
+      <div class="card pad" style="margin-top: 10px;">
+        <h3 style="margin:0 0 8px;">Card title</h3>
+        <p class="p">Card content example.</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="./script.js" defer></script>
+</body>
+</html>
