@@ -1,0 +1,7 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#FDF4F1"/>
+  <circle cx="680" cy="168" r="160" fill="#EFD0CA"/>
+  <circle cx="170" cy="740" r="188" fill="#F4DFD8"/>
+  <path d="M485 132C439 189 424 270 440 358C457 445 502 523 539 596C579 675 600 766 567 838" stroke="#8A4D4F" stroke-width="18" stroke-linecap="round"/>
+  <text x="72" y="790" fill="#5A2D2F" font-family="Georgia, serif" font-size="68">Kids</text>
+</svg>

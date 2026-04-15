@@ -1,0 +1,9 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#FBF2EE"/>
+  <circle cx="654" cy="190" r="170" fill="#EBC8C4"/>
+  <circle cx="184" cy="904" r="205" fill="#F1DBD6"/>
+  <path d="M512 140C452 194 428 285 438 371C452 486 512 576 545 682C573 773 579 884 524 958" stroke="#6B3639" stroke-width="16" stroke-linecap="round"/>
+  <path d="M443 309C503 356 570 387 641 399" stroke="#AD7273" stroke-width="12" stroke-linecap="round"/>
+  <text x="72" y="978" fill="#5A2D2F" font-family="Georgia, serif" font-size="68">Women&apos;s Edit</text>
+  <text x="72" y="1032" fill="#8A6868" font-family="Arial, sans-serif" font-size="28">Refined layers and graceful silhouettes.</text>
+</svg>
