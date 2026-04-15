@@ -1,0 +1,6 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="600" fill="#F9EEEA"/>
+  <rect width="900" height="600" fill="url(#paint0_linear_1_6)"/>
+  <text x="72" y="516" fill="#5A2D2F" font-family="Georgia, serif" font-size="74">Pants</text>
+  <defs><linearGradient id="paint0_linear_1_6" x1="450" y1="0" x2="450" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#FDF4F0"/><stop offset="1" stop-color="#E6C7C2"/></linearGradient></defs>
+</svg>

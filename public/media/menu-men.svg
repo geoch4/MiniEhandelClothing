@@ -1,0 +1,9 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F8EFEC"/>
+  <circle cx="700" cy="220" r="180" fill="#DEC4C0"/>
+  <circle cx="170" cy="915" r="205" fill="#EBD5D0"/>
+  <path d="M470 150C418 222 403 321 418 420C434 517 474 605 519 693C560 775 591 879 565 975" stroke="#6B3639" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 338C489 361 556 365 626 354" stroke="#9A6465" stroke-width="12" stroke-linecap="round"/>
+  <text x="70" y="976" fill="#5A2D2F" font-family="Georgia, serif" font-size="68">Men&apos;s Layers</text>
+  <text x="70" y="1030" fill="#8A6868" font-family="Arial, sans-serif" font-size="28">Clean rehearsal shapes with comfort built in.</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#F8EFEC"/>
+  <circle cx="680" cy="170" r="160" fill="#DDC1BC"/>
+  <circle cx="164" cy="748" r="188" fill="#EAD4CE"/>
+  <path d="M487 124C435 194 421 281 438 375C455 465 499 547 546 626C582 690 613 779 590 852" stroke="#6B3639" stroke-width="18" stroke-linecap="round"/>
+  <text x="72" y="790" fill="#5A2D2F" font-family="Georgia, serif" font-size="68">Men</text>
+</svg>

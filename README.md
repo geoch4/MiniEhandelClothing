@@ -1,5 +1,5 @@
 
-# MiniEhandel Clothing
+# Move - Women's Gym Wear
 
 ## Problem Statement
 Användare behöver kunna bläddra bland kläder, se produktdetaljer och lägga till produkter i varukorgen. 

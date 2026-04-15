@@ -1,0 +1,7 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#FBF2EE"/>
+  <circle cx="667" cy="182" r="163" fill="#E8C3BD"/>
+  <circle cx="176" cy="735" r="182" fill="#F3DDD7"/>
+  <path d="M509 130C449 182 425 272 436 355C447 440 488 523 530 601C566 671 594 757 566 839" stroke="#7F4345" stroke-width="18" stroke-linecap="round"/>
+  <text x="72" y="790" fill="#5A2D2F" font-family="Georgia, serif" font-size="68">Women</text>
+</svg>
